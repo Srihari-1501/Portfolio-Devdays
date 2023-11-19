@@ -1,0 +1,144 @@
+body {
+  background-color: #1a1a29;
+  color: aliceblue;
+  font-family: "Poppins", sans-serif;
+}
+.myImg {
+  border-radius: 50%;
+  width: 450px;
+}
+.navbar-brand {
+  color: #7562e0;
+  font-weight: bold;
+}
+.btn-purple {
+  color: #fff;
+  background-color: #7562e0;
+}
+.btn-purple:hover {
+  opacity: 0.5;
+  background-color: #7562e0;
+}
+
+.landing {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.landing-inner {
+  width: 100vw;
+}
+
+.expertise {
+  justify-content: space-around;
+}
+
+.csetting {
+  height: 300px;
+  /* width: 5000px;  */
+  padding: 30px 60px;
+}
+.cset {
+  width: 1200px;
+}
+
+.imgpro {
+  margin: 20px;
+}
+.Loremtxt {
+  color: #7562e0;
+  font-weight: 600;
+  font-size: 28px;
+}
+.whiteLorem {
+  font-size: 28px;
+}
+
+.txtalg {
+  text-align: justify;
+}
+.btnsize {
+  display: flex;
+  width: 160px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 99px;
+}
+
+.card-size {
+  width: 358px;
+  height: 358px;
+  margin-right: 66px;
+}
+
+.card-fe-size {
+  width: 358px;
+  height: 500px;
+  margin-right: 66px;
+}
+.rec-margin {
+  margin-top: auto 30px;
+}
+.recDiv {
+  border-radius: 20px;
+  border-color: #7562e0 !important;
+  height: auto;
+}
+.recHead {
+  color: #7562e0 !important;
+  margin-bottom: 30px;
+}
+
+.subhead {
+  color: #7562e0 !important;
+}
+
+ul.Experience {
+  list-style-type: square;
+  list-style-image: url("Screenshot%202023-11-14%20231421.jpg");
+}
+ul.Experience > li {
+  list-style-type: none;
+}
+
+ul.Experience ul {
+  list-style-type: disc;
+  list-style-image: none;
+}
+
+ul.Experience ul li {
+  list-style-type: disc;
+}
+
+.icon {
+  margin-right: 40px;
+  color: #7562e0;
+}
+
+.borderBox {
+  background-color: #1a1a29;
+  color: #fff;
+  border-color: #7562e0 !important;
+}
+
+.borderBox2 {
+  background-color: #1a1a29;
+  color: #fff;
+  border-color: #7562e0 !important;
+}
+
+.carousel-control-round.active {
+  background-color: #7562e0;
+}
+
+.footer-txt {
+  color: #7562e0;
+  font-weight: 400;
+  font-size: 14px;
+}
+.disclaimer {
+  margin: auto;
+  color: #fff;
+}
